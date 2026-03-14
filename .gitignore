@@ -1,0 +1,13 @@
+# Local Claude settings (may contain personal/API data)
+.claude/settings.local.json
+
+# Temp files
+temp_*.txt
+*.tmp
+
+# VSCode workspace settings (optional — remove if you want to share these)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
