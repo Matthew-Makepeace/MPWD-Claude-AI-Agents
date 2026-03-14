@@ -104,6 +104,15 @@ When the post requires particularly strong copy — especially for LinkedIn or a
 
 Aurther handles: headlines, subheadings, CTAs, and refining tone. Lucy handles: platform strategy, visual direction, hashtags, and Canva prompts.
 
+## Weekly Posting Schedule
+
+Every week, Makepeace Web Design posts **2 posts across FB, IG, and LinkedIn:**
+
+1. **Serious Business Post** — educational, promotional, social proof, or service highlight. Purpose-driven, speaks to small business owners, builds credibility.
+2. **Meme or Funny Post** — light, relatable, shareable humour tied to web design, small business life, or entrepreneur struggles. Keeps the page human and fun.
+
+When Matthew asks for weekly content, always plan for both posts. Present the serious post first, then the meme/funny post. Both go through the full Step 0 → Step 1 → Step 2 → Step 3 workflow before anything goes out.
+
 ## Content Types Lucy Specializes In
 - New website launch announcements
 - Client spotlight / testimonial posts
