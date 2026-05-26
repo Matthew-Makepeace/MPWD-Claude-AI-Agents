@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MPWD — May Promo Banner Preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background: #060d1a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      font-family: 'Outfit', sans-serif;
+      padding: 40px 16px;
+    }
+
+    /* ── Banner Shell ── */
+    .banner {
+      width: 100%;
+      max-width: 1100px;
+      background-color: #0B1120;
+      background-image:
+        radial-gradient(ellipse 70% 60% at 50% 40%, rgba(245, 197, 24, 0.10) 0%, transparent 70%),
+        radial-gradient(ellipse 40% 30% at 50% 0%, rgba(245, 197, 24, 0.06) 0%, transparent 60%);
+      border: 1px solid rgba(245, 197, 24, 0.12);
+      border-radius: 16px;
+      padding: 64px 40px 56px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Subtle corner accent lines */
+    .banner::before,
+    .banner::after {
+      content: '';
+      position: absolute;
+      width: 120px;
+      height: 120px;
+      border-color: rgba(245, 197, 24, 0.18);
+      border-style: solid;
+    }
+    .banner::before {
+      top: 20px;
+      left: 20px;
+      border-width: 1px 0 0 1px;
+      border-radius: 4px 0 0 0;
+    }
+    .banner::after {
+      bottom: 20px;
+      right: 20px;
+      border-width: 0 1px 1px 0;
+      border-radius: 0 0 4px 0;
+    }
+
+    /* ── Eyebrow Tag ── */
+    .eyebrow {
+      display: inline-block;
+      background: rgba(245, 197, 24, 0.12);
+      color: #F5C518;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      padding: 5px 14px;
+      border-radius: 100px;
+      border: 1px solid rgba(245, 197, 24, 0.25);
+      margin-bottom: 24px;
+    }
+
+    /* ── Headline ── */
+    .headline {
+      color: #F5C518;
+      font-size: clamp(2.2rem, 5.5vw, 3.6rem);
+      font-weight: 800;
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      margin-bottom: 20px;
+    }
+
+    /* Highlight "6 Spots" with a subtle underline */
+    .headline mark {
+      background: none;
+      color: inherit;
+      position: relative;
+    }
+    .headline mark::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: 2px;
+      width: 100%;
+      height: 3px;
+      background: #F5C518;
+      border-radius: 2px;
+      opacity: 0.55;
+    }
+
+    /* ── Divider ── */
+    .divider {
+      width: 48px;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, rgba(245, 197, 24, 0.5), transparent);
+      border: none;
+      margin: 0 auto 20px;
+    }
+
+    /* ── Package Line ── */
+    .package-line {
+      color: #ffffff;
+      font-size: clamp(0.95rem, 2.2vw, 1.15rem);
+      font-weight: 400;
+      line-height: 1.55;
+      max-width: 620px;
+      margin: 0 auto 32px;
+      opacity: 0.92;
+    }
+
+    .package-line strong {
+      font-weight: 700;
+      color: #ffffff;
+    }
+
+    /* ── CTA Button ── */
+    .cta-wrap {
+      margin-bottom: 20px;
+    }
+
+    .cta-btn {
+      display: inline-block;
+      background: #F5C518;
+      color: #0B1120;
+      font-family: 'Outfit', sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      text-decoration: none;
+      padding: 15px 40px;
+      border-radius: 100px;
+      border: none;
+      cursor: pointer;
+      transition: background 0.2s ease, transform 0.15s ease, box-shadow 0.2s ease;
+      box-shadow: 0 4px 24px rgba(245, 197, 24, 0.30);
+    }
+
+    .cta-btn:hover {
+      background: #ffd24d;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 32px rgba(245, 197, 24, 0.45);
+    }
+
+    .cta-btn:active {
+      transform: translateY(0);
+    }
+
+    /* ── Urgency Line ── */
+    .urgency {
+      color: rgba(255, 255, 255, 0.70);
+      font-size: 0.82rem;
+      font-weight: 400;
+      letter-spacing: 0.02em;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .banner {
+        padding: 48px 24px 40px;
+      }
+      .banner::before,
+      .banner::after {
+        width: 60px;
+        height: 60px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="banner" role="banner">
+
+    <div class="eyebrow">Limited Availability &mdash; May 2026</div>
+
+    <h1 class="headline">
+      Only <mark>6 Spots.</mark><br />Only This Month.
+    </h1>
+
+    <hr class="divider" />
+
+    <p class="package-line">
+      <strong>3 Essential Web Builds</strong> &nbsp;+&nbsp; <strong>3 Web Redesign &amp; Monthly Support Bundles</strong>
+    </p>
+
+    <div class="cta-wrap">
+      <a href="#" class="cta-btn">Claim Your Spot</a>
+    </div>
+
+    <p class="urgency">May 4&ndash;19 only. &nbsp;Gone when they&rsquo;re gone.</p>
+
+  </div>
+
+</body>
+</html>
