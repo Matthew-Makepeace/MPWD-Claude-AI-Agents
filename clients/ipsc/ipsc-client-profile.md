@@ -4,7 +4,7 @@
 - **Client:** Andrew Cicarelli
 - **Business:** Iconic Performance SC
 - **Type:** Youth soccer training program
-- **Platform:** New build — no existing website
+- **Platform:** WordPress (confirmed — Tier 1 build)
 - **Instagram:** @iconicperformancesc
 - **Relationship:** Family friend (son-in-law to Matthew's godparents)
 - **Status:** Pre-build — Wednesday meeting scheduled (2026-05-20)

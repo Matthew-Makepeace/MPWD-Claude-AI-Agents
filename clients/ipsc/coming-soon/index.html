@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Iconic Performance SC — Coming Soon</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --navy:   #0B1F3A;
+      --blue:   #1A6EFF;
+      --gold:   #F0B429;
+      --white:  #FFFFFF;
+      --muted:  rgba(255, 255, 255, 0.55);
+    }
+
+    html, body {
+      height: 100%;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: var(--navy);
+      color: var(--white);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    /* Subtle background texture */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background:
+        radial-gradient(ellipse at 20% 50%, rgba(26, 110, 255, 0.12) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 20%, rgba(240, 180, 41, 0.08) 0%, transparent 50%);
+      pointer-events: none;
+    }
+
+    .container {
+      position: relative;
+      max-width: 560px;
+      width: 100%;
+    }
+
+    /* Gold accent bar */
+    .accent-bar {
+      width: 56px;
+      height: 4px;
+      background: var(--gold);
+      margin: 0 auto 2rem;
+      border-radius: 2px;
+    }
+
+    .logo-placeholder {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 2.5rem;
+    }
+
+    h1 {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: clamp(3rem, 10vw, 5.5rem);
+      font-weight: 800;
+      line-height: 1;
+      text-transform: uppercase;
+      letter-spacing: 0.01em;
+      margin-bottom: 0.5rem;
+    }
+
+    h1 span {
+      color: var(--gold);
+    }
+
+    .tagline {
+      font-size: clamp(1rem, 3vw, 1.2rem);
+      color: var(--muted);
+      margin-top: 1.25rem;
+      margin-bottom: 2.5rem;
+      line-height: 1.6;
+      font-weight: 400;
+    }
+
+    /* Divider */
+    .divider {
+      width: 100%;
+      height: 1px;
+      background: rgba(255,255,255,0.1);
+      margin: 0 auto 2rem;
+    }
+
+    .status {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: rgba(26, 110, 255, 0.15);
+      border: 1px solid rgba(26, 110, 255, 0.3);
+      border-radius: 100px;
+      padding: 0.45rem 1rem;
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: #7EB8FF;
+      margin-bottom: 2rem;
+    }
+
+    .status::before {
+      content: '';
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--blue);
+      box-shadow: 0 0 6px var(--blue);
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0.4; }
+    }
+
+    .social {
+      margin-top: 2.5rem;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    .social a {
+      color: var(--white);
+      text-decoration: none;
+      font-weight: 500;
+      border-bottom: 1px solid rgba(255,255,255,0.25);
+      transition: color 0.2s, border-color 0.2s;
+    }
+
+    .social a:hover {
+      color: var(--gold);
+      border-color: var(--gold);
+    }
+
+    @media (max-width: 480px) {
+      body { padding: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo-placeholder">Iconic Performance SC</div>
+
+    <div class="accent-bar"></div>
+
+    <h1>Train Hard.<br><span>Play Iconic.</span></h1>
+
+    <p class="tagline">
+      Youth soccer development built for players who want more —<br>
+      coached by someone who has been where you want to go.
+    </p>
+
+    <div class="divider"></div>
+
+    <div class="status">New website underway</div>
+
+    <p class="social">
+      Follow us in the meantime &nbsp;→&nbsp;
+      <a href="https://www.instagram.com/iconicperformancesc" target="_blank" rel="noopener">
+        @iconicperformancesc
+      </a>
+    </p>
+  </div>
+</body>
+</html>
