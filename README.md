@@ -14,6 +14,7 @@ A suite of specialized Claude AI agents built to power the day-to-day operations
 | **Jack** | Client Scout — lead research, cold outreach drafts |
 | **Tammy** | Shopify & Backend Systems — Shopify admin, integrations |
 | **Beth** | Business & Finance — pricing, compliance, invoicing |
+| **Tim**| Photography Quality & Cinematic Specialist — photo assessment, editing recommendations, cinematic analysis |
 
 ## Structure
 
