@@ -44,6 +44,15 @@ The URL pattern is: `https://images.unsplash.com/photo-XXXXXXXXXXX?q=80&w=...`
 
 ---
 
+## Clinic Locations
+
+**Toronto (Queens Quay)**
+500 Queens Quay W #102, Toronto, ON M5V 3K8
+
+**Hamilton** — address TBC
+
+---
+
 ## WordPress Site Details
 
 - **Live domain**: https://drsezerassociates.ca
