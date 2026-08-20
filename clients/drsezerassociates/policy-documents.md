@@ -127,7 +127,7 @@ To exercise any of these rights, please contact our Privacy Officer in writing u
 
 We have designated a Privacy Officer who is responsible for overseeing our compliance with PHIPA and for responding to privacy-related questions, requests, and complaints.
 
-**Privacy Officer:** Dr. Recap Nejat Sezer
+**Privacy Officer:** Recap Nejat Sezer
 **Email:** drnejatsezer@rogers.com
 **Phone:** 416-560-7871
 **Mailing Address:** Dr. R. N. Sezer & Associates, 500 Queens Quay W #102, Toronto, ON M5V 3K8
