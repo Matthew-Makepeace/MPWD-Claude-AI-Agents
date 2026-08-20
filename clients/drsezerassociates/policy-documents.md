@@ -127,9 +127,10 @@ To exercise any of these rights, please contact our Privacy Officer in writing u
 
 We have designated a Privacy Officer who is responsible for overseeing our compliance with PHIPA and for responding to privacy-related questions, requests, and complaints.
 
-**Privacy Officer:** [PRIVACY OFFICER NAME]
-**Email:** [PRIVACY OFFICER EMAIL]
-**Mailing Address:** Dr. R N Sezer & Associates, 500 Queens Quay W #102, Toronto, ON M5V 3K8
+**Privacy Officer:** Dr. Recap Nejat Sezer
+**Email:** drnejatsezer@rogers.com
+**Phone:** 416-560-7871
+**Mailing Address:** Dr. R. N. Sezer & Associates, 500 Queens Quay W #102, Toronto, ON M5V 3K8
 
 ---
 
@@ -179,9 +180,9 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ---
 
-*Questions about this policy? Please contact our Privacy Officer at [PRIVACY OFFICER EMAIL].*
+*Questions about this policy? Please contact our Privacy Officer at drnejatsezer@rogers.com.*
 
-> **Note to clinic:** Before this policy goes live, confirm the legal entity name Dr. R. N. Sezer & Associates, designate a named Privacy Officer, and have the policy reviewed by a licensed Ontario health privacy lawyer familiar with PHIPA obligations for dental health information custodians.
+> **Note to clinic:** Before this policy goes live, have it reviewed by a licensed Ontario health privacy lawyer familiar with PHIPA obligations for dental health information custodians. Confirm the Hamilton location address to add alongside the Toronto mailing address.
 
 ---
 
