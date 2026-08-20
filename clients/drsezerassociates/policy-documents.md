@@ -22,7 +22,7 @@
 
 Dr. R N Sezer & Associates is committed to protecting the privacy and security of your personal health information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information in accordance with the **Personal Health Information Protection Act (PHIPA)** — Ontario's health privacy law — and other applicable legislation.
 
-[CLINIC NAME] is a **health information custodian** under PHIPA. This means we have specific legal obligations to handle your personal health information responsibly, transparently, and with respect for your rights as a patient.
+Dr. R. N. Sezer & Associates is a **health information custodian** under PHIPA. This means we have specific legal obligations to handle your personal health information responsibly, transparently, and with respect for your rights as a patient.
 
 If you have any questions about this policy or about how your information is handled, please contact our Privacy Officer (see contact details below).
 
@@ -181,7 +181,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 *Questions about this policy? Please contact our Privacy Officer at [PRIVACY OFFICER EMAIL].*
 
-> **Note to clinic:** Before this policy goes live, confirm the legal entity name [CLINIC NAME], designate a named Privacy Officer, and have the policy reviewed by a licensed Ontario health privacy lawyer familiar with PHIPA obligations for dental health information custodians.
+> **Note to clinic:** Before this policy goes live, confirm the legal entity name Dr. R. N. Sezer & Associates, designate a named Privacy Officer, and have the policy reviewed by a licensed Ontario health privacy lawyer familiar with PHIPA obligations for dental health information custodians.
 
 ---
 
@@ -223,7 +223,7 @@ If you are experiencing a dental emergency, please call our clinic directly rath
 
 ### Intellectual Property
 
-All content on drsezerassociates.ca — including but not limited to written text, images, photographs, graphics, logos, video, and the overall design and layout of the site — is the property of [CLINIC NAME] or its licensed content providers, and is protected under the *Copyright Act* (Canada) and other applicable intellectual property laws.
+All content on drsezerassociates.ca — including but not limited to written text, images, photographs, graphics, logos, video, and the overall design and layout of the site — is the property of Dr. R. N. Sezer & Associates or its licensed content providers, and is protected under the *Copyright Act* (Canada) and other applicable intellectual property laws.
 
 You are welcome to view and print pages from this website for your own personal, non-commercial reference. You may not:
 
@@ -232,7 +232,7 @@ You are welcome to view and print pages from this website for your own personal,
 - Modify, adapt, or create derivative works based on any content from this site
 - Remove, alter, or obscure any copyright, trademark, or other proprietary notices contained on or within this site
 
-To request permission to use our content, please contact us at [CONTACT EMAIL].
+To request permission to use our content, please contact us at drnejatsezer@rogers.com.
 
 ---
 
@@ -246,7 +246,7 @@ We make every reasonable effort to ensure that the content on this website is ac
 
 ### Limitation of Liability
 
-To the fullest extent permitted by applicable Ontario law, Dr. R N Sezer & Associates and [CLINIC NAME] shall not be liable for any direct, indirect, incidental, consequential, or special damages arising from:
+To the fullest extent permitted by applicable Ontario law, Dr. R N Sezer & Associates and Dr. R. N. Sezer & Associates shall not be liable for any direct, indirect, incidental, consequential, or special damages arising from:
 
 - Your use of this website, or your inability to access or use it
 - Errors, inaccuracies, or omissions in any content on this site
@@ -277,9 +277,9 @@ Dr. R N Sezer & Associates reserves the right to update or modify these Terms of
 
 ---
 
-*For questions about these Terms of Use, please contact us at [CONTACT EMAIL] or call [CLINIC PHONE NUMBER].*
+*For questions about these Terms of Use, please contact us at drnejatsezer@rogers.com or call 416-205-9106 (Toronto) | 905-525-3310 (Hamilton).*
 
-> **Note to clinic:** Fill in [CONTACT EMAIL] and [CLINIC PHONE NUMBER] before publishing. Confirm that [CLINIC NAME] reflects the correct legal entity name. If the clinic operates multiple legal entities across the Toronto and Hamilton locations, have a lawyer confirm whether a single Terms of Use covers both.
+> **Note to clinic:** Fill in drnejatsezer@rogers.com and 416-205-9106 (Toronto) | 905-525-3310 (Hamilton) before publishing. Confirm that Dr. R. N. Sezer & Associates reflects the correct legal entity name. If the clinic operates multiple legal entities across the Toronto and Hamilton locations, have a lawyer confirm whether a single Terms of Use covers both.
 
 ---
 
@@ -346,8 +346,8 @@ We also welcome requests for communication supports when visiting either of our 
 
 If you experience difficulty accessing any part of drsezerassociates.ca, or if you find content that you believe does not meet accessibility standards, please reach out to us directly. We take all reports seriously and will work toward a resolution.
 
-**Email:** [ACCESSIBILITY CONTACT EMAIL]
-**Phone:** [CLINIC PHONE NUMBER]
+**Email:** drnejatsezer@rogers.com
+**Phone:** 416-205-9106 (Toronto) | 905-525-3310 (Hamilton)
 **In person:** 500 Queens Quay W #102, Toronto, ON M5V 3K8
 
 We will acknowledge your message and aim to respond within a reasonable timeframe with a plan to address the issue.
@@ -358,10 +358,10 @@ We will acknowledge your message and aim to respond within a reasonable timefram
 
 Your feedback helps us build a better experience for all visitors. Whether something on our website is working well, or whether you have encountered something that made your visit more difficult, we would like to hear from you.
 
-Please send your comments or suggestions to [ACCESSIBILITY CONTACT EMAIL]. We are grateful for any input that helps us serve our patients and community more inclusively.
+Please send your comments or suggestions to drnejatsezer@rogers.com. We are grateful for any input that helps us serve our patients and community more inclusively.
 
 ---
 
 *This Accessibility Statement was last reviewed and updated in August 2026. Dr. R N Sezer & Associates is committed to reviewing this statement on a regular basis as our website evolves.*
 
-> **Note to clinic:** Fill in [ACCESSIBILITY CONTACT EMAIL] and [CLINIC PHONE NUMBER] before publishing. Once the Hamilton location address is confirmed, add it to the "Report an Accessibility Barrier" section alongside the Toronto address. Consider scheduling an annual review of this statement each August to keep it current.
+> **Note to clinic:** Fill in drnejatsezer@rogers.com and 416-205-9106 (Toronto) | 905-525-3310 (Hamilton) before publishing. Once the Hamilton location address is confirmed, add it to the "Report an Accessibility Barrier" section alongside the Toronto address. Consider scheduling an annual review of this statement each August to keep it current.
